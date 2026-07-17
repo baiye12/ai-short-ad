@@ -1,5 +1,6 @@
 ---
 name: ai-short-ad
+version: 1.0.0
 description: AI ad creation for Chinese social media (Douyin/Kuaishou). Use when user says "写剧本", "出新剧本", "来几个剧本", "写脚本", "短视频广告", "广告制作", or similar. Supports 15-20s short ad scripts (15s default, extendable to 18-20s when dialogue load requires). Product info provided at conversation time. For AI short drama, use ai-short-drama skill instead.
 name_cn: AI广告制作
 description_cn: AI广告制作，走量快产出，审核风控合规，产品口播位设计
