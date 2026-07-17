@@ -1,7 +1,3 @@
-# AI agent skill files
-SKILL.md
-references/
-
 # OS
 .DS_Store
 Thumbs.db
@@ -15,3 +11,9 @@ Thumbs.db
 
 # Backup
 *.bak
+
+# Python / Node artifacts
+__pycache__/
+*.pyc
+node_modules/
+*.log
