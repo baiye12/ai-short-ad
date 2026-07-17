@@ -1,0 +1,17 @@
+# AI agent skill files
+SKILL.md
+references/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Backup
+*.bak
